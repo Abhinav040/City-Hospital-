@@ -1,4 +1,4 @@
-# Before running the main City-Hospital program "CityHospital_update_2023", users need to have MySql 8.0 or above installed in thier system. 
+# Before running the main City-Hospital program "CityHospital_update_2023", users need to have MySql 8.0 or above installed in their system. 
 
 # After succesful installation , run "package_install" python program that will automatically install all the required libraries in your system that are required to run "CityHospital_update_2023" . 
 
