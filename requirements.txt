@@ -1,0 +1,4 @@
+tabulate
+colored
+mysql-connector-python
+maskpass
